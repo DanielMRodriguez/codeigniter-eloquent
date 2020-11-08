@@ -12,7 +12,8 @@
 	},
 	"require": {
 		"php": ">=5.2.4",
-		"illuminate/database": "^5.2"
+		"illuminate/database": "^5.2",
+		"robmorgan/phinx": "^0.12.4"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
